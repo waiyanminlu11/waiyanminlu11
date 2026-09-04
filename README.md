@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi there, I'm Hlaing Myo!
+# 👋 Hi there, I'm Wai Yan Min Lu!
 ### 👨‍💻 About Me
 
 I am an Information Science student with a deep passion for **Machine Learning, Artificial Intelligence, and Data Science**. I am currently on a continuous learning journey, constantly exploring new algorithms, data processing techniques, and AI architectures to solve complex problems.
