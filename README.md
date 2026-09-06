@@ -2,7 +2,7 @@
 <h3 align="center">AI / Machine Learning Engineer • Edge AI & IoT Systems Builder</h3>
 
 <p align="center">
-  <img src="./assets/profile.jpg" width="180" alt="Wai Yan Min Lu" style="border-radius:50%;" />
+  <img src="profile.jpg" width="180" alt="Wai Yan Min Lu" style="border-radius:50%;" />
 </p>
 
 <p align="center">
