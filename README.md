@@ -16,7 +16,6 @@ I'm a final-year Information Science & Technology student who builds **AI system
 
 - 🔭 Currently building **Smart AI City**, a multi-module platform combining traffic analytics, fire/smoke detection, and environmental monitoring
 - 🌱 Deepening my skills in computer vision (YOLO), applied ML, and real-time systems
-- 🎤 Selected participant, **AI Ready ASEAN Youth Challenge** — Myanmar national round (AI Singapore × AngelHack)
 - 📫 Reach me at **waiyanminlu11@gmail.com**
 
 ---
