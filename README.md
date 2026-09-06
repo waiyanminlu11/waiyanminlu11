@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Wai Yan Min Lu 👋</h1>
 <h3 align="center">AI / Machine Learning Engineer • Edge AI & IoT Systems Builder</h3>
 
-<p align="center">
-  <img src="profile.jpg" width="180" alt="Wai Yan Min Lu" style="border-radius:50%;" />
-</p>
 
 <p align="center">
   <a href="mailto:waiyanminlu11@gmail.com"><img src="https://img.shields.io/badge/Email-waiyanminlu11%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
